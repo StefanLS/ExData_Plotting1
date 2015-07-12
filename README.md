@@ -1,11 +1,10 @@
 This repository contains the solution to the 'Exploratory Data Analysis Course Project 1'.
 
-It consist of 8 files: plot1.R, ... plot4.R, plot1.png, ... plot4.png  
+It consists of 8 files: plot1.R, ... plot4.R, plot1.png, ... plot4.png  
 
 The task for this peer assesment is as follows:  
 (for more information see https://class.coursera.org/exdata-030)
 
-## Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
