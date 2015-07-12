@@ -1,6 +1,10 @@
+## Exploratory Data Analysis Course Project 1
+
 This repository contains the solution to the 'Exploratory Data Analysis Course Project 1'.
 
-It consists of 8 files: plot1.R, ... plot4.R, plot1.png, ... plot4.png  
+It consists of 8 files:  
+* R-scripts to create the images: plot1.R, plot2.R, plot3.R, plot4.R 
+* Images: plot1.png, plot2.png, plot3.png, plot4.png  
 
 For the scripts to work, the zip-file has to be extracted in the working directory; i.e. 
 the file "household_power_consumption.txt" should be in the working directory.
